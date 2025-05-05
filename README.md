@@ -129,10 +129,6 @@ Potential improvements that could be made:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-MIT
-
 ## Acknowledgments
 
 - JSONPlaceholder for providing the mock API
